@@ -1,0 +1,66 @@
+baseURL = "http://www.bremertonpilotsassociation.org/"
+languageCode = "en-us"
+title = "Bremerton Pilots Association"
+# paginate = 1
+# DisqusShortname = "BPA"
+# Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[[menu.main]]
+  name = "Main Page"
+  weight = 20
+  identifier = "Main"
+  url = "/"
+
+[[menu.main]]
+  name = "About the BPA"
+  weight = 19
+  identifier = "about"
+  url = "/post/about/"
+
+[[menu.main]]
+  name = "Calendar"
+  weight = 18
+  identifier = "calendar"
+  url = "/post/calendar/"
+
+[[menu.main]]
+  name = "Youth Scholarship"
+  weight = 17
+  identifier = "YASF"
+  url = "/post/YASF/"
+
+[[menu.main]]
+  name = "Documents"
+  weight = 16
+  identifier = "documents"
+  url = "/post/documents/"
+
+
+[params]
+  description = "A West-Sound chapter of the Washington Pilots Association"
+  metadescription = "Website for the Bremerton Pilots Association - a west-sound chapter of the Washington Pilots Association"
+  cover = "images/BPA_FlyIn.jpg"
+  author = "Anderson Manly"
+  authorlocation = "Silverdale, WA"
+  authorwebsite = "http://www.bluorb.net"
+  bio = "Private Pilot"
+  logo = "images/BPA_Logo.png"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  # githubName = "MandersonMuahahaha"
+  # twitterName = "andersonmanly"
+  facebookName = "BremertonPilotsAssociation"
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+   [params.social]
+     # twitter = "your_twitter"
+     facebook = "BremertonPilotsAssociation"
