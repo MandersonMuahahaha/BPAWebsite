@@ -1,10 +1,10 @@
 baseURL = "http://www.bremertonpilotsassociation.org/"
 languageCode = "en-us"
 title = "Bremerton Pilots Association"
-# paginate = 1
+paginate = 5
 # DisqusShortname = "BPA"
 # Copyright = "All rights reserved - 2017"
-canonifyurls = true
+# canonifyurls = true
 
 [[menu.main]]
   name = "Main Page"
@@ -25,14 +25,20 @@ canonifyurls = true
   url = "/post/calendar/"
 
 [[menu.main]]
-  name = "Youth Scholarship"
+  name = "Store"
   weight = 17
+  identifier = "store"
+  url = "/post/store/"
+
+[[menu.main]]
+  name = "Youth Scholarship"
+  weight = 16
   identifier = "YASF"
   url = "/post/YASF/"
 
 [[menu.main]]
   name = "Documents"
-  weight = 16
+  weight = 15
   identifier = "documents"
   url = "/post/documents/"
 
@@ -42,8 +48,8 @@ canonifyurls = true
   metadescription = "Website for the Bremerton Pilots Association - a west-sound chapter of the Washington Pilots Association"
   cover = "images/BPA_FlyIn.jpg"
   author = "Anderson Manly"
-  authorlocation = "Silverdale, WA"
-  authorwebsite = "http://www.bluorb.net"
+  authorlocation = "White Salmon, WA"
+  authorwebsite = "http://www.truebluesphere.com"
   bio = "Private Pilot"
   logo = "images/BPA_Logo.png"
   # googleAnalyticsUserID = "UA-79101-12"
@@ -55,7 +61,7 @@ canonifyurls = true
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
-  
+
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/

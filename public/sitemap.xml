@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/post/documents/</loc>
+    <lastmod>2018-01-27T00:06:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/post/store/</loc>
+    <lastmod>2017-10-24T11:04:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/post/yasf/</loc>
+    <lastmod>2017-06-05T17:30:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/post/calendar/</loc>
+    <lastmod>2017-06-04T23:24:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/post/about/</loc>
+    <lastmod>2017-06-04T19:57:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/</loc>
+    <lastmod>2018-01-27T00:06:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/post/</loc>
+    <lastmod>2018-01-27T00:06:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bremertonpilotsassociation.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
