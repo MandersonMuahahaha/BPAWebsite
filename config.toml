@@ -46,12 +46,14 @@ paginate = 5
 [params]
   description = "A West-Sound chapter of the Washington Pilots Association"
   metadescription = "Website for the Bremerton Pilots Association - a west-sound chapter of the Washington Pilots Association"
+  mainSections = ["post"]
+  #feature_image = "images/BPA_FlyIn.jpg"
   cover = "images/BPA_FlyIn.jpg"
   author = "Anderson Manly"
   authorlocation = "White Salmon, WA"
   authorwebsite = "http://www.truebluesphere.com"
   bio = "Private Pilot"
-  logo = "images/BPA_Logo.png"
+  logo = "images/logo/BPA_Logo_Render_SM.png"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
@@ -70,3 +72,6 @@ paginate = 5
    [params.social]
      # twitter = "your_twitter"
      facebook = "BremertonPilotsAssociation"
+
+[markup.goldmark.renderer]
+  unsafe= true

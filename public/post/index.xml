@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bremerton Pilots Association</title>
@@ -6,21 +6,42 @@
     <description>Recent content in Posts on Bremerton Pilots Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2018 00:06:03 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 09:30:46 -0700</lastBuildDate>
     
 	<atom:link href="http://www.bremertonpilotsassociation.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Youth Aviation Scholarship Fund</title>
+      <link>http://www.bremertonpilotsassociation.org/post/yasf/</link>
+      <pubDate>Fri, 28 Aug 2020 09:30:46 -0700</pubDate>
+      
+      <guid>http://www.bremertonpilotsassociation.org/post/yasf/</guid>
+      <description>Youth Aviation Scholarship Fund The Bremerton Pilots Association is offering a matching funds Scholarship for young men and women in the greater Puget Sound area who have the desire to obtain a Private Pilot Certificate. This Scholarship is made possible by donations and fund raising activities by the Bremerton Pilots Association and friends of aviation in the community.
+For more information, please download this PDF Scholarship Application.</description>
+    </item>
+    
+    <item>
       <title>Documents</title>
       <link>http://www.bremertonpilotsassociation.org/post/documents/</link>
-      <pubDate>Sat, 27 Jan 2018 00:06:03 -0700</pubDate>
+      <pubDate>Tue, 25 Sep 2018 15:19:00 -0700</pubDate>
       
       <guid>http://www.bremertonpilotsassociation.org/post/documents/</guid>
-      <description>Bremerton Pilots Association By-Laws
+      <description>&amp;nbsp;Chapter Governance
+Bremerton Pilots Association By-Laws
 Youth Aviation Scholarship Fund
- Youth Aviation Scholarship Fund Application  &amp;nbsp;Treasurer&amp;rsquo;s reports
-  2016 2017 2018     September October November December     January February March April May June July August September October November December     January February March April May June July August September October November December</description>
+ Youth Aviation Scholarship Fund Application  &amp;nbsp;Meeting Minutes
+  2018     09/22/2018: General Membership Meeting Minutes      &amp;nbsp;Treasurer&#39;s reports
+  2016 2017 2018     September October November December     January February March April May June July August September October November December     January February March April May June July August September October November December      </description>
+    </item>
+    
+    <item>
+      <title>About the BPA</title>
+      <link>http://www.bremertonpilotsassociation.org/post/about/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://www.bremertonpilotsassociation.org/post/about/</guid>
+      <description>The Bremerton Pilots Association is a West-Sound chapter of the Washington Pilots Association whose membership is comprised of private and corporate pilots, friends of aviation and members of aviation related organizations who are based at Bremerton National Airport or who frequent the facility. The Association has many activities and is actively involved with the airport management and the Port of Bremerton to help ensure the safe and efficient use of the airport.</description>
     </item>
     
     <item>
@@ -34,31 +55,12 @@ Youth Aviation Scholarship Fund
     </item>
     
     <item>
-      <title>Youth Aviation Scholarship Fund</title>
-      <link>http://www.bremertonpilotsassociation.org/post/yasf/</link>
-      <pubDate>Mon, 05 Jun 2017 17:30:46 -0700</pubDate>
-      
-      <guid>http://www.bremertonpilotsassociation.org/post/yasf/</guid>
-      <description>Youth Aviation Scholarship Fund The Bremerton Pilots Association is offering a matching funds Scholarship for young men and women in the greater Puget Sound area who have the desire to obtain a Private Pilot Certificate. This Scholarship is made possible by donations and fund raising activities by the Bremerton Pilots Association and friends of aviation in the community.
-For more information, please download this PDF Scholarship Application.</description>
-    </item>
-    
-    <item>
       <title>BPA Calendar</title>
       <link>http://www.bremertonpilotsassociation.org/post/calendar/</link>
       <pubDate>Sun, 04 Jun 2017 23:24:40 -0700</pubDate>
       
       <guid>http://www.bremertonpilotsassociation.org/post/calendar/</guid>
       <description> </description>
-    </item>
-    
-    <item>
-      <title>About the BPA</title>
-      <link>http://www.bremertonpilotsassociation.org/post/about/</link>
-      <pubDate>Sun, 04 Jun 2017 19:57:54 -0700</pubDate>
-      
-      <guid>http://www.bremertonpilotsassociation.org/post/about/</guid>
-      <description>The Bremerton Pilots Association is a West-Sound chapter of the Washington Pilots Association whose membership is comprised of private and corporate pilots, friends of aviation and members of aviation related organizations who are based at Bremerton National Airport or who frequent the facility. The Association has many activities and is actively involved with the airport management and the Port of Bremerton to help ensure the safe and efficient use of the airport.</description>
     </item>
     
   </channel>
