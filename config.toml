@@ -33,8 +33,8 @@ paginate = 5
 [[menu.main]]
   name = "Youth Scholarship"
   weight = 16
-  identifier = "YASF"
-  url = "/post/YASF/"
+  identifier = "scholarship"
+  url = "/post/scholarship/"
 
 [[menu.main]]
   name = "Documents"
